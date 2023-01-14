@@ -24,6 +24,7 @@ To initialize your project and install these required dependencies, open a comma
 
 
 ## Usage
+![Untitled_ Jan 14, 2023 2_59 PM](https://user-images.githubusercontent.com/113136342/212494077-e4642ed6-9f62-4716-82e9-4da8bdad7518.gif)
 
 Upon entering the web page, you are presented with a page that has a section where you can put the tilte of the note and another section for the note itself.
 
